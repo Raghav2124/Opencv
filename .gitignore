@@ -4,3 +4,9 @@ Faces\val
 Photos
 Videos
 archive
+data
+aug_data
+aug_data\train
+aug_data\test
+aug_data\test\images
+aug_data\train\images
