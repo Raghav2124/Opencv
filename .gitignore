@@ -10,3 +10,4 @@ aug_data\train
 aug_data\test
 aug_data\test\images
 aug_data\train\images
+logs
